@@ -27,7 +27,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - <a href="https://miragejs.com"> Mirage JS </a>
 - <a href="https://github.com/marak/Faker.js/"> Faker </a>
 
-Você precisará de uma conta no [Firebase](https://firebase.google.com/) e configurar o arquivo firebase.js com suas chaves
 
 ### 🎲 Rodando o projeto
 
