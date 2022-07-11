@@ -1,6 +1,6 @@
 
-<div style="display: flex; width: 800px; margin: 0 auto; align-items: center;">
-  <img alt="dashgo" title="dashgo" width="300px"  src="./public/assets/logo.svg" style="margin: auto"/>
+<div align="center">
+  <img alt="dashgo" title="dashgo" width="300px"  src="./public/assets/logo.svg" style="margin: 0 auto"/>
 
 </div>
 
